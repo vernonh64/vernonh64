@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vernonh64
-- 👀 I’m interested in software testing
+- 👀 I am a software developer annd designer
 - 🌱 I’m currently learning software testing for websites
 - 📫 How to reach me: via email at vernonh7087@gmail.com
 
